@@ -1,6 +1,6 @@
 # 🎯 Customer Churn Prediction Project
 
-**Master's Level Data Science Project** - Analysis of customer behavior patterns and churn prediction using machine learning
+**Data Science Project** - Analysis of customer behavior patterns and churn prediction using machine learning
 
 ## 📋 Project Overview
 
@@ -166,10 +166,6 @@ This project successfully demonstrates:
 3. **Communication Skills**: Clear presentation of analytical findings
 4. **Problem-Solving**: End-to-end data science project execution
 5. **Practical Application**: Interactive tool development for stakeholder use
-
-## 📞 Project Information
-
-This project was completed as part of my Master's coursework in Data Science. For questions about the methodology or implementation, please refer to the Jupyter notebook or contact me through the course instructor.
 
 ---
 
